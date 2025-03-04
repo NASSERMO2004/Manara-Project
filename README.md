@@ -1,4 +1,4 @@
-AWS Architecture 
+#AWS Architecture 
+This is a web hosting architecture
 
-
-# Manara-Project
+Manara-Project
